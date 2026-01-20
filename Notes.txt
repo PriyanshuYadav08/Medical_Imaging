@@ -1,0 +1,11 @@
+Data Augnmentation and Normalisation
+CLAHE - Contrast Enhancement Technique
+
+N - NORMAL
+D - DIABETIC_RETINOPATHY
+G - GLAUCOMA
+C - CATARACT
+A - AGE_RELATED_MACULAR_DEGENERATION
+H - HYPERTENSION
+M - MYOPIA
+O - OTHER_DISEASES
