@@ -1,5 +1,6 @@
-Data Augnmentation and Normalisation
+Preprocess - Data Augnmentation and Normalisation
 CLAHE - Contrast Enhancement Technique
+Apply CNN
 
 N - NORMAL
 D - DIABETIC_RETINOPATHY
